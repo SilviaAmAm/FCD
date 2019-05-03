@@ -20,7 +20,7 @@ setup(name='FCD',
           'keras',
           'numpy',
           'scipy',
-          'tensorflow'
+#          'tensorflow'
       ],
       extras_require={
           'rdkit': ['rdkit'],
